@@ -40,6 +40,11 @@ I’m a passionate Front-End Developer who’s recently fallen in love with Reac
 
 <br/>
 
+<h2 > Coding Profiles </h2> 
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ramen_tasty)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/akshaya_singh/)
 
 <h2>Languages-Frameworks-Tools</h2> 
 
