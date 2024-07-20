@@ -9,11 +9,12 @@
 </h1>
 
 
-  <h3>Problem Solver and Frontend Developer</h3>
+  <h3 align="left"> Problem Solver | Frontend Developer </h3>
   <br>
-  I’m a passionate Front-End Developer who’s recently fallen in love with React (we’ve been inseparable for a while now). I also have a bit of a crush on problem-solving—it’s complicated, but let’s just say we’re seeing a lot of each other. With a solid foundation in Data Structures and Algorithms (DSA), I relish tackling complex problems and coming up with efficient solutions. I’ve sharpened my skills by solving countless DSA challenges and am always on the lookout to level up my front-end game. Welcome to my GitHub profile—where the code is clean and the bugs are (at least I try to make them) few!
-<br/>
+  <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+  I’m a passionate <b>Front-End Developer</b> who’s recently fallen in love with React (we’ve been inseparable for a while now). I also have a bit of a crush on problem-solving—it’s complicated, but let’s just say we’re seeing a lot of each other. With a solid foundation in <b>Data Structures and Algorithms (DSA)</b>, I relish tackling complex problems and coming up with efficient solutions. I’ve sharpened my skills by solving countless DSA challenges and am always on the lookout to level up my front-end game. Welcome to my <b>GitHub profile</b>—where the code is clean and the bugs are (at least I try to make them 🙂) few!
 
+<br/>
 <br/>
 
 <p>
@@ -58,9 +59,11 @@
 <h2 align="center">Socials</h2> 
 
 <p align="center">
+  
   <a href="https://instagram.com/_akshaya.pratap_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
+  
   <a href="https://www.linkedin.com/in/akshaya-singh-b65864229/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
@@ -72,32 +75,33 @@
   </a>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Get+Connected;" />
+</h1>
+
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akshaya-cp/akshaya-cp/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<h2 align="center">Badges</h2>
 
-<h3 align="center">My GitHub Stats</h3>
+
+
+
+<h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=akshaya-cp" alt="GitHub Stats" style="width: 700px; height: auto;" />
 </p>
 <br/>
-<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=akshaya-cp&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya-cp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
+  </tr>
+</table>
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaya-cp&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
-<br/>
-<br/>
-
-<p align="center">
-  <a href="http://www.github.com/akshaya-cp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya-cp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
