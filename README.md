@@ -11,7 +11,7 @@ Problem Solver and Frontend Developer
 
 I’m a passionate Front-End Developer who’s recently fallen in love with React (we’ve been inseparable for a while now). I also have a bit of a crush on problem-solving—it’s complicated, but let’s just say we’re seeing a lot of each other. With a solid foundation in Data Structures and Algorithms (DSA), I relish tackling complex problems and coming up with efficient solutions. I’ve sharpened my skills by solving countless DSA challenges and am always on the lookout to level up my front-end game. Welcome to my GitHub profile—where the code is clean and the bugs are (at least I try to make them) few!  
 
-<div align="center">
+
  
  🌍  I'm based in India  
 
@@ -24,7 +24,7 @@ I’m a passionate Front-End Developer who’s recently fallen in love with Reac
 ⚡  I may not have superpowers, but I can make bugs disappear faster than you can say “syntax error”!
  </div>
  
-<div align="center">
+
 
 
 
@@ -53,10 +53,14 @@ I’m a passionate Front-End Developer who’s recently fallen in love with Reac
 
 
 
- <div align="center">
- <p align="left"> <a href="https://codesandbox.io/u/akshaya-cp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/AK_singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/akshaya-cp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_akshaya.pratap_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akshaya-singh-b65864229/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@akshayasingh61" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
- </div>
- 
+<p>
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" style="width: 40px; height: 40px; display: inline-block;" />
+</p>
+
+
 <h2> Badeges </h2>
 
 <b>My GitHub Stats</b>
