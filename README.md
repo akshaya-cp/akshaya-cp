@@ -60,6 +60,12 @@ I’m a passionate Front-End Developer who’s recently fallen in love with Reac
   <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" style="width: 40px; height: 40px; display: inline-block;" />
 </p>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akshaya-cp/akshaya-cp/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 
 <h2> Badeges </h2>
 
