@@ -1,4 +1,4 @@
-<p align="right">
+![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)<p align="right">
   <img src="https://komarev.com/ghpvc/?username=akshaya-cp&color=brightgreen" alt="Profile Views" />
 </p>
 
@@ -65,10 +65,19 @@ I’m a passionate Front-End Developer who’s recently fallen in love with Reac
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/akshaya-cp"><img src="https://github-readme-stats.vercel.app/api?username=akshaya-cp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akshaya-cp's GitHub stats" /></a>
+
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=akshaya-cp" alt="GitHub Stats" style="width: 800px; height: auto;" />
+<br/>
+<br/>
+
+![github-trophies](https://stats.dooboo.io/api/github-trophies?login=akshaya-cp)
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaya-cp&show_icons=true&theme=radical)
 <br/>
 <br/>
 <a href="http://www.github.com/akshaya-cp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya-cp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br/>
-<br/>
-<a href="https://github.com/akshaya-cp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya-cp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
