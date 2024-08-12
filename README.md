@@ -43,8 +43,9 @@
 <h2 align="center">Languages-Frameworks-Tools</h2> 
 
 <p align="center">
+  <a href="https://greensock.com/gsap/" title="GSAP"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="50px" height="50px"></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,html,css,sass,tailwind,js,react,nodejs,expressjs,spring&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,html,css,sass,tailwind,js,react,nodejs,expressjs,spring,gsap&theme=light" alt="My Skills" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
